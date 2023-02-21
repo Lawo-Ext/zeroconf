@@ -1,3 +1,9 @@
+This is a fork of github.com/grandcat/zeroconf
+
+The fork was created as maintence of the above repository seems to have stopped and we need
+to fix a race condition in the code which causes intermittent crashes.
+
+
 ZeroConf: Service Discovery with mDNS
 =====================================
 ZeroConf is a pure Golang library that employs Multicast DNS-SD for
